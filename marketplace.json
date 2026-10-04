@@ -1,0 +1,21 @@
+{
+  "name": "LynchzDEV marketplace",
+  "plugins": [
+    {
+      "id": "clickup-board",
+      "repo": "https://github.com/LynchzDEV/mc-plugin-clickup",
+      "ref": "v1.0.0",
+      "name": "ClickUp board",
+      "description": "See a ClickUp board and start a chat or terminal on any task, with the task already explained to the AI.",
+      "runtime": "isolated"
+    },
+    {
+      "id": "hello-board",
+      "repo": "https://github.com/LynchzDEV/mc-plugin-template",
+      "ref": "v0.1.0",
+      "name": "Hello board",
+      "description": "Template: a small trusted plugin to copy when you write your own.",
+      "runtime": "trusted"
+    }
+  ]
+}
