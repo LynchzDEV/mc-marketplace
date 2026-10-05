@@ -4,7 +4,7 @@
     {
       "id": "clickup-board",
       "repo": "https://github.com/LynchzDEV/mc-plugin-clickup",
-      "ref": "v1.4.0",
+      "ref": "v1.5.0",
       "name": "ClickUp board",
       "description": "See a ClickUp board and start a chat or terminal on any task, with the task already explained to the AI.",
       "runtime": "isolated"
