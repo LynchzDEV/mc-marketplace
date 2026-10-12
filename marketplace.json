@@ -20,7 +20,7 @@
     {
       "id": "card-pipeline",
       "repo": "https://github.com/LynchzDEV/mc-plugin-card-pipeline",
-      "ref": "v0.3.3",
+      "ref": "v0.3.7",
       "name": "Card pipeline",
       "description": "Ready to use for KlangTech: the biz-gate agent and card-refine skill for ClickUp cards, plus the card pipeline flow in Studio. Needs access to the private repo.",
       "runtime": "isolated"
