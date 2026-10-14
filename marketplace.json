@@ -3,7 +3,7 @@
   "plugins": [
     {
       "id": "clickup-board",
-      "repo": "https://github.com/LynchzDEV/mc-plugin-clickup",
+      "repo": "https://github.com/LynchzDEV/skd-plugin-clickup",
       "ref": "v1.5.0",
       "name": "ClickUp board",
       "description": "See a ClickUp board and start a chat or terminal on any task, with the task already explained to the AI.",
@@ -11,7 +11,7 @@
     },
     {
       "id": "hello-board",
-      "repo": "https://github.com/LynchzDEV/mc-plugin-template",
+      "repo": "https://github.com/LynchzDEV/skd-plugin-template",
       "ref": "v0.1.0",
       "name": "Hello board",
       "description": "Template: a small trusted plugin to copy when you write your own.",
@@ -19,7 +19,7 @@
     },
     {
       "id": "card-pipeline",
-      "repo": "https://github.com/LynchzDEV/mc-plugin-card-pipeline",
+      "repo": "https://github.com/LynchzDEV/skd-plugin-card-pipeline",
       "ref": "v0.3.7",
       "name": "Card pipeline",
       "description": "Ready to use for KlangTech: the biz-gate agent and card-refine skill for ClickUp cards, plus the card pipeline flow in Studio. Needs access to the private repo.",

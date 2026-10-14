@@ -1,8 +1,8 @@
 # Shikidan marketplace
 
-A list of [Shikidan](https://github.com/LynchzDEV/mission-control) plugins.
+A list of [Shikidan](https://github.com/LynchzDEV/shiki) plugins.
 
-Add it in Shikidan: sidebar, Marketplace, Add a marketplace, paste `https://github.com/LynchzDEV/mc-marketplace`.
+Add it in Shikidan: sidebar, Marketplace, Add a marketplace, paste `https://github.com/LynchzDEV/skd-marketplace`.
 
 ## Listing a plugin
 
@@ -18,4 +18,4 @@ Add an entry to `marketplace.json`:
 
 What gets installed and what it may do always comes from the plugin's own `mc-plugin.json` at `ref`, never from this file.
 
-Writing a plugin: start from [skd-plugin-template](https://github.com/LynchzDEV/mc-plugin-template) and read [skd-plugin-sdk](https://github.com/LynchzDEV/mc-plugin-sdk).
+Writing a plugin: start from [skd-plugin-template](https://github.com/LynchzDEV/skd-plugin-template) and read [skd-plugin-sdk](https://github.com/LynchzDEV/skd-plugin-sdk).
